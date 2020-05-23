@@ -1,0 +1,2 @@
+Error: 2020-05-22T14:55:59.582Z 
+ {"code":"PUG:INCONSISTENT_INDENTATION","msg":"Inconsistent indentation. Expecting either 16 or 20 spaces/tabs.","line":89,"column":1,"filename":"G:\\Web Development\\Node.js\\Natours\\views\\tour.pug"}
